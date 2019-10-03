@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#intelij
+.idea
+
+#work dir
+/images
+/output
+/videos
+/yolo-coco
