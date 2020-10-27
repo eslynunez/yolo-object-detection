@@ -9,7 +9,7 @@ botocore==1.10.38
 cffi==1.11.5
 chardet==2.3.0
 colorama==0.3.9
-cryptography==2.2.2
+cryptography==3.2
 docutils==0.14
 enum34==1.1.6
 fabric==2.1.3
