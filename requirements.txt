@@ -20,7 +20,7 @@ idna==2.7
 invoke==1.0.0
 ipaddress==1.0.22
 jmespath==0.9.3
-lxml==3.5.0
+lxml==4.6.5
 numpy==1.16.2
 paramiko==2.4.1
 pbr==5.1.3
